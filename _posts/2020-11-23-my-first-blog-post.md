@@ -1,4 +1,3 @@
-
 ---
 title: "Starting Point"
 date: 2020-11-24
